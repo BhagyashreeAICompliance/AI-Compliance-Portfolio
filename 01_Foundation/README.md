@@ -12,7 +12,7 @@ It explains what AI is, key concepts, and provides a simple workflow diagram.
 ## Workflow Diagram
 The diagram below shows a basic AI workflow: data collection → model training → validation → deployment → monitoring.
 
-![AI Workflow](AI_Workflow.png)
+[Click here to see the AI Workflow Diagram](AI_Workflow.png)
 
 ## Why This Matters for Compliance
 Understanding the AI lifecycle helps identify risks, regulatory checkpoints, and where governance policies apply.
